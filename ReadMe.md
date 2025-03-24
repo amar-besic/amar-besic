@@ -78,6 +78,10 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Photoshop-%23E94E77.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"></a>
+    <!-- CANVA ICON -->
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+    </a>
   </div>
 
   <!-- AI -->
@@ -91,9 +95,6 @@
 
 </div>
 
-
-
-</div>
 
 
 
