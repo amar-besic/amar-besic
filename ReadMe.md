@@ -42,6 +42,7 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
   <!-- OFFICE & PRODUCTIVITY -->
@@ -93,6 +94,7 @@
   </div>
 
 </div>
+
 
 
 </div>
