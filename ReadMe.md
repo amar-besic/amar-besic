@@ -132,14 +132,14 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
 <a href="https://www.fit.ba/" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px; transition: transform 0.3s ease;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
 </a>
 
   <a href="https://www.ms-skola.ba/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px; transition: transform 0.3s ease;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
   </a>
   <a href="https://www.suljocilic.com.ba/" target="_blank">
-    <img src="https://www.hercegovina.info/img/repository/2024/10/image_640x396/osnovna-skola-suljo-cilic-jablanica.jpg" alt="OŠ Suljo Čilić Jablanica Symbolic Image" style="border-radius: 50%; border: 5px solid #2196F3; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px; transition: transform 0.3s ease;">
+    <img src="https://www.hercegovina.info/img/repository/2024/10/image_640x396/osnovna-skola-suljo-cilic-jablanica.jpg" alt="OŠ Suljo Čilić Jablanica Symbolic Image" style="border-radius: 50%; border: 5px solid #2196F3; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
   </a>
 </div>
 
