@@ -116,7 +116,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
       +387 60 300 70 90
     </a>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="viber://chat?number=%2B387603007090" style="text-decoration: none;">
+      <a href="viber://send?text=Hello,%20I'm%20interested%20in%20contacting%20you!" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Viber-%238B6FBF.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber">
       </a>
     </div>
@@ -148,6 +148,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
     </div>
   </div>
 </div>
+
 
 ---
 
