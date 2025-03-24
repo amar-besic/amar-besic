@@ -81,13 +81,19 @@
 
 # 👨‍💻 About Me:
 <div style="font-family: 'Georgia', serif; font-size: 24px; color: #333; text-align: center; margin-top: 20px;">
-  <div style="font-size: 36px; font-weight: bold; color: #4CAF50;">
+  <div style="font-size: 28px; font-weight: normal; color: #555; margin-bottom: 10px;">
+    My name is
+  </div>
+  <div style="font-size: 40px; font-weight: bold; color: #4CAF50; margin-bottom: 10px;">
     Amar Bešić
   </div>
-  <div style="font-size: 20px; font-weight: normal; color: #555;">
-    Born on <strong>February 27, 2002</strong> in <strong>Konjic, Bosnia and Herzegovina</strong>
+  <div style="font-size: 22px; font-weight: normal; color: #555; margin-bottom: 10px;">
+    Born on <strong style="font-size: 26px; color: #2196F3;">February 27, 2002</strong> in <strong style="font-size: 26px; color: #2196F3;">Konjic, Bosnia and Herzegovina</strong>
   </div>
-  <div style="font-size: 22px; font-weight: bold; color: #2196F3; margin-top: 10px;">
+  <div style="font-size: 24px; font-weight: bold; color: #2196F3; margin-top: 20px;">
+    Age: <strong style="font-size: 28px;">23 years old</strong> (as of 2025)
+  </div>
+</div>
 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
