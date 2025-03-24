@@ -71,6 +71,19 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
   </div>
 
+<!-- IDEs & Code Editors -->
+<div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ IDEs & Code Editors</div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Eclipse-%232C2251.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/JetBrains%20Rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Rider"></a>
+</div>
+
+
+  
+
 </div>
 
 
