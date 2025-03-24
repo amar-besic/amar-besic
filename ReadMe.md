@@ -31,9 +31,6 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Inventor-%23F27D0C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ANSYS-%23FFB400.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CATIA-%23008FC7.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA"></a>
   </div>
 
   <!-- OPERATING SYSTEMS -->
