@@ -113,9 +113,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
  
-  <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  
 </div>
 
 <!-- CONTACT -->
@@ -145,6 +143,9 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
       <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
         amar.besic.2002@gmail.com
       </a>
+      <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
     </div>
   </div>
 
