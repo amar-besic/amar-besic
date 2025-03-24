@@ -80,11 +80,12 @@
 ---
 
 # 👨‍💻 About Me:
-
-<div style="display: flex; flex-direction: column; gap: 10px;">
 <div style="font-family: 'Georgia', serif; font-size: 32px; font-weight: bold; color: #4CAF50; text-align: center; margin-top: 20px;">
   Amar Bešić
 </div>
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
 
 
 I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
