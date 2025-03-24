@@ -22,7 +22,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SQLite-%2307405A.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
   </div>
 
   <!-- CAD & ENGINEERING SOFTWARE -->
@@ -49,23 +49,18 @@
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;">
       <img src="https://img.shields.io/badge/Microsoft%20Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word">
-      <img src="https://img.shields.io/badge/Word-%23E34F26.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word Icon">
     </a>
     <a href="#" onclick="return false;">
       <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-      <img src="https://img.shields.io/badge/Excel-%23FF6600.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Icon">
     </a>
     <a href="#" onclick="return false;">
       <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint">
-      <img src="https://img.shields.io/badge/PowerPoint-%23E34F26.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint Icon">
     </a>
     <a href="#" onclick="return false;">
       <img src="https://img.shields.io/badge/Microsoft%20Outlook-%231287A3.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook">
-      <img src="https://img.shields.io/badge/Outlook-%23F7DF1E.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Icon">
     </a>
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/Microsoft%20Access-%23E63246.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access">
-      <img src="https://img.shields.io/badge/Access-%23FF0000.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access Icon">
+      <img src="https://img.shields.io/badge/Microsoft%20Access-%23FF0000.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access">
     </a>
   </div>
 
@@ -87,17 +82,8 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
   </div>
 
-  <!-- IDEs & Code Editors -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ IDEs & Code Editors</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Eclipse-%232C2251.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/JetBrains%20Rider-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Rider"></a>
-  </div>
-
 </div>
+
 
 
 </div>
