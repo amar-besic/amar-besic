@@ -1,13 +1,13 @@
 # 👨‍💻 About Me:
 I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
-I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](http://www.masinsko.edu.ba/)** in **Mostar**.
+I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](https://www.ms-skola.ba/)** in **Mostar**.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://www.fit.ba/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 20px; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px;">
   </a>
-  <a href="http://www.masinsko.edu.ba/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 20px; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px;">
+  <a href="https://www.ms-skola.ba/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px;">
   </a>
 </div>
 
