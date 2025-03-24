@@ -63,14 +63,17 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Unity-%23231F20.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
   </div>
 
+  <!-- OPERATING SYSTEMS -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">💻 Operating Systems</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A8B9CC.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
+  </div>
+
   <!-- OTHER SOFTWARE & SYSTEMS -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ Other Software & Systems</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  </div>
 
-</div>
 
 
 
