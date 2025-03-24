@@ -2,7 +2,7 @@
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
   <!-- PROGRAMMING LANGUAGES -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Programming Languages</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ Programming Languages</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
@@ -11,21 +11,21 @@
   </div>
 
   <!-- WEB DEVELOPMENT -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Web Development</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🌐 Web Development</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   </div>
 
   <!-- DATABASES & VERSION CONTROL -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Databases & Version Control</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📊 Databases & Version Control</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </div>
 
   <!-- CAD & ENGINEERING SOFTWARE -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 CAD & Engineering Software</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">⚙️ CAD & Engineering Software</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
@@ -36,7 +36,7 @@
   </div>
 
   <!-- PRODUCTIVITY & OFFICE TOOLS -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Productivity & Office Tools</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📑 Productivity & Office Tools</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
@@ -46,17 +46,17 @@
   </div>
 
   <!-- CLOUD SERVICES -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Cloud Services</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Services</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-%23007AEE.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Dropbox-%230E76A8.svg?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Box-%23007AE1.svg?style=for-the-badge&logo=box&logoColor=white" alt="Box"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MEGA.nz-%23D40000.svg?style=for-the-badge&logo=mega&logoColor=white" alt="MEGA.nz"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MEGA-%23D40000.svg?style=for-the-badge&logo=mega&logoColor=white" alt="MEGA"></a>
   </div>
 
   <!-- DEVELOPMENT TOOLS -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Development Tools</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">⚙️ Development Tools</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
@@ -64,13 +64,14 @@
   </div>
 
   <!-- OTHER SOFTWARE & SYSTEMS -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Other Software & Systems</div>
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ Other Software & Systems</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   </div>
 
 </div>
+
 
 
 
