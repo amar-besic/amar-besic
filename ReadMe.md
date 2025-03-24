@@ -143,12 +143,12 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
       <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
         amar.besic.2002@gmail.com
       </a>
-      <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
+   
+  </div>
+   <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
     </div>
-  </div>
-
 </div>
 ---
 
@@ -214,6 +214,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   <a href="https://www.ms-skola.ba/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px; transition: transform 0.3s ease;">
   </a>
+  
   <a href="https://www.suljocilic.com.ba/" target="_blank">
     <img src="https://www.hercegovina.info/img/repository/2024/10/image_640x396/osnovna-skola-suljo-cilic-jablanica.jpg" alt="OŠ Suljo Čilić Jablanica Symbolic Image" style="border-radius: 50%; border: 5px solid #2196F3; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 120px; height: 120px; padding: 5px; transition: transform 0.3s ease;">
   </a>
