@@ -44,24 +44,14 @@
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-  <!-- OFFICE & PRODUCTIVITY -->
+ <!-- OFFICE & PRODUCTIVITY -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Microsoft_Word_2013_logo_%28Office_365%29.png" alt="Word" width="60" height="60">
-    </a>
-    <a href="#" onclick="return false;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Microsoft_Excel_Logo_%282019%29.svg" alt="Excel" width="60" height="60">
-    </a>
-    <a href="#" onclick="return false;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_PowerPoint_2019_logo.svg" alt="PowerPoint" width="60" height="60">
-    </a>
-    <a href="#" onclick="return false;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Microsoft_Outlook_logo_2013.png" alt="Outlook" width="60" height="60">
-    </a>
-    <a href="#" onclick="return false;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Access_2013_logo.png" alt="Access" width="60" height="60">
-    </a>
+    <a href="#" onclick="return false;">Word</a>
+    <a href="#" onclick="return false;">Excel</a>
+    <a href="#" onclick="return false;">PowerPoint</a>
+    <a href="#" onclick="return false;">Outlook</a>
+    <a href="#" onclick="return false;">Access</a>
   </div>
 
 </div>
