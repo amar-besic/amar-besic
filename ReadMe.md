@@ -82,8 +82,16 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
   </div>
 
-</div>
+  <!-- AI -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI & Machine Learning</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-%2300A400.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSec-%23000000.svg?style=for-the-badge&logo=deepsec&logoColor=white" alt="DeepSec"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-%232F72C6.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Gemini-%232D74F0.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+  </div>
 
+</div>
 
 
 </div>
