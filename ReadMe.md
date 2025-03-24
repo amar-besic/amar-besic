@@ -43,18 +43,13 @@
   </div>
 
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-
-  <!-- OFFICE & PRODUCTIVITY -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;">Word</a>
-    <a href="#" onclick="return false;">Excel</a>
-    <a href="#" onclick="return false;">PowerPoint</a>
-    <a href="#" onclick="return false;">Outlook</a>
-    <a href="#" onclick="return false;">Access</a>
-  </div>
-
+<div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="#" onclick="return false;">Word</a>
+  <a href="#" onclick="return false;">Excel</a>
+  <a href="#" onclick="return false;">PowerPoint</a>
+  <a href="#" onclick="return false;">Outlook</a>
+  <a href="#" onclick="return false;">Access</a>
 </div>
 
 
