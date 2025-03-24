@@ -42,23 +42,11 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
-
- <!-- OFFICE & PRODUCTIVITY -->
+  <!-- OFFICE & PRODUCTIVITY (Modified) -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;">
-    </a>
-    <a href="#" onclick="return false;"> 
-    </a>
-    <a href="#" onclick="return false;">
-    </a>
-    <a href="#" onclick="return false;">
-    </a>
-    <a href="#" onclick="return false;">
-    </a>
+  <div style="display: flex; gap: 10px;">
+    Word, Excel, PowerPoint, Outlook, Access
   </div>
-
-
 
   <!-- CLOUD STORAGE -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
@@ -82,16 +70,14 @@
     </a>
   </div>
 
-  <!-- AI -->
+  <!-- AI (Modified) -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI & Machine Learning</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-%2300A400.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-%232F72C6.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Gemini-%232D74F0.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+  <div style="display: flex; gap: 10px;">
+    ChatGPT, DeepSeek, GitHub Copilot, Google Gemini
   </div>
 
 </div>
+
 
 
 
