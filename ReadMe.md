@@ -1,9 +1,11 @@
 # 👨‍💻 About Me:
 I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
-I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](http://www.masinsko.edu.ba/)** in **Mostar**.  
+I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](http://www.masinsko.edu.ba/)** in **Mostar**.
 
-![FIT Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU)  
-![Srednja Mašinska Saobraćajna Škola Mostar Logo](link_do_logotipa_Mašinska_Saobraćajna)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 15px; border: 3px solid #ccc; width: 100px; height: 100px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 15px; border: 3px solid #ccc; width: 100px; height: 100px;">
+</div>
 
 ---
 
