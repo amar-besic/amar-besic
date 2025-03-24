@@ -1,6 +1,9 @@
 # 👨‍💻 About Me:
-I am currently studying **Software Engineering** at **FIT** (Faculty of Information Technologies).  
-I completed the **Computer-Aided Design** (CAD) specialization at **Secondary School of Mechanical Engineering and Traffic** in **Mostar**.  
+I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
+I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](http://www.masinsko.edu.ba/)** in **Mostar**.  
+
+![FIT Logo](link_do_logotipa_FIT)  
+![Srednja Mašinska Saobraćajna Škola Mostar Logo](link_do_logotipa_Mašinska_Saobraćajna)
 
 ---
 
