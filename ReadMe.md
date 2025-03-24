@@ -80,9 +80,28 @@
 ---
 
 # 👨‍💻 About Me:
-<div style="font-family: 'Georgia', serif; font-size: 32px; font-weight: bold; color: #4CAF50; text-align: center; margin-top: 20px;">
-  Amar Bešić
+<div style="font-family: 'Georgia', serif; font-size: 24px; color: #333; text-align: center; margin-top: 20px;">
+  <div style="font-size: 36px; font-weight: bold; color: #4CAF50;">
+    Amar Bešić
+  </div>
+  <div style="font-size: 20px; font-weight: normal; color: #555;">
+    Born on <strong>February 27, 2002</strong> in <strong>Konjic, Bosnia and Herzegovina</strong>
+  </div>
+  <div style="font-size: 22px; font-weight: bold; color: #2196F3; margin-top: 10px;">
+    Age: <span id="age"></span> years old
+  </div>
 </div>
+
+<script>
+  const birthDate = new Date('2002-02-27');
+  const today = new Date();
+  const age = today.getFullYear() - birthDate.getFullYear();
+  const month = today.getMonth() - birthDate.getMonth();
+  if (month < 0 || (month === 0 && today.getDate() < birthDate.getDate())) {
+    age--;
+  }
+  document.getElementById('age').textContent = age;
+</script>
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
