@@ -148,24 +148,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 <!-- CONTACT -->
 <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📞 Contact</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div>
-    <div style="font-weight: bold;">Phone (Viber)</div>
-    <!-- Viber link to start chat -->
-    <a href="viber://chat?number=%2B387603007090" style="text-decoration: none; color: #0078D4;">
-      +387 60 300 70 90
-    </a>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <!-- Viber icon -->
-      <a href="viber://chat?number=%2B387603007090" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Viber-%238B6FBF.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber">
-      </a>
-      <!-- WhatsApp icon -->
-      <a href="https://wa.me/387603007090?text=Hello,%20I'm%20interested%20in%20contacting%20you!" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/WhatsApp-%2371B900.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-      </a>
-    </div>
-  </div>
+
 
   <div>
     <div style="font-weight: bold;">Instagram</div>
