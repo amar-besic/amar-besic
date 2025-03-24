@@ -31,7 +31,9 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Inventor-%23F27D0C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ANSYS-%23FFB400.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CATIA-%23008FC7.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA"></a>
   </div>
 
   <!-- OPERATING SYSTEMS -->
@@ -42,7 +44,62 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
+
+  <!-- OFFICE & PRODUCTIVITY -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word">
+    </a>
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+    </a>
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+    </a>
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Outlook-%231287A3.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
+    </a>
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Access-%23FF0000.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access">
+    </a>
+  </div>
+
+  <!-- CLOUD STORAGE -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Mega-%23D9272E.svg?style=for-the-badge&logo=mega&logoColor=white" alt="Mega"></a>
+  </div>
+
+  <!-- OTHER SOFTWARE & SYSTEMS -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🛠️ Software & Tools</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VMware-%23607080.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Photoshop-%23E94E77.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"></a>
+  </div>
+
+  <!-- AI -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI & Machine Learning</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-%2300A400.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-%232F72C6.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Gemini-%232D74F0.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+  </div>
+
 </div>
+
+
+
+</div>
+
+
 
 
 
