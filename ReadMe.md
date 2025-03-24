@@ -47,8 +47,10 @@
   <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   </a>
-</div>
-# 👨‍💻 About Me:
+</div>#
+
+---
+👨‍💻 About Me:
 I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
 I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](https://www.ms-skola.ba/)** in **Mostar**.  
 During my time there, I worked with tools like **AutoCAD**, **SolidWorks**, **Inventor**, and other essential engineering and design software.  
@@ -77,7 +79,6 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 ---
 
 [![](https://visitcount.itsvg.in/api?id=amar-besic&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 
