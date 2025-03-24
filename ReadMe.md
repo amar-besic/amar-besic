@@ -112,13 +112,13 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div>
     <div style="font-weight: bold;">Phone (Viber)</div>
-    <!-- Viber link to start a chat with the number -->
-    <a href="viber://addcontact?number=%2B387603007090" style="text-decoration: none; color: #0078D4;">
+    <!-- Viber link to start chat -->
+    <a href="viber://chat?number=%2B387603007090" style="text-decoration: none; color: #0078D4;">
       +387 60 300 70 90
     </a>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <!-- Viber icon -->
-      <a href="viber://addcontact?number=%2B387603007090" style="text-decoration: none;">
+      <a href="viber://chat?number=%2B387603007090" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Viber-%238B6FBF.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber">
       </a>
       <!-- WhatsApp icon -->
@@ -154,6 +154,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
     </div>
   </div>
 </div>
+
 
 
 
