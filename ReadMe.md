@@ -24,15 +24,18 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
   </div>
 
+  <!-- VERSION CONTROL & DATABASES -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔄 Version Control & Databases</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  </div>
+
   <!-- CAD & ENGINEERING SOFTWARE -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🛠️ CAD & Engineering Software</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Inventor-%23F27D0C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ANSYS-%23FFB400.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CATIA-%23008FC7.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA"></a>
   </div>
 
   <!-- OFFICE SUITE -->
@@ -41,7 +44,6 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Outlook-%23007BB6.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
   </div>
 
   <!-- CLOUD STORAGE -->
