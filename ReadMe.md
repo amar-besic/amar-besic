@@ -50,11 +50,11 @@
 ---
 
 # 👨‍💻 About Me:
-<p>I am currently studying <strong>Software Engineering</strong> at <a href="https://www.fit.ba/" target="_blank">FIT</a> (Faculty of Information Technologies).</p>
-<p>I completed the <strong>Computer-Aided Design</strong> (CAD) specialization at <a href="https://www.ms-skola.ba/" target="_blank">Secondary School of Mechanical Engineering and Traffic</a> in <strong>Mostar</strong>.</p>
-<p>During my time there, I worked with tools like <strong>AutoCAD</strong>, <strong>SolidWorks</strong>, <strong>Inventor</strong>, and other essential engineering and design software.</p>
-<p>Additionally, I had solid exposure to <strong>programming</strong> during high school, learning languages such as <strong>C++</strong>, <strong>Python</strong>, and more.</p>
-<p>I also graduated from <a href="https://www.suljocilic.com.ba/" target="_blank">OŠ Suljo Čilić Jablanica</a>, where I gained a strong foundation in academics and values.</p>
+I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
+I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](https://www.ms-skola.ba/)** in **Mostar**.  
+During my time there, I worked with tools like **AutoCAD**, **SolidWorks**, **Inventor**, and other essential engineering and design software.  
+Additionally, I had solid exposure to **programming** during high school, learning languages such as **C++**, **Python**, and more.  
+I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com.ba/)**, where I gained a strong foundation in academics and values.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
   <a href="https://www.fit.ba/" target="_blank">
