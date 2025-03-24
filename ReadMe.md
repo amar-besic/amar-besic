@@ -1,5 +1,3 @@
-# 💫 About Me:
-🖥️ I'm currently working on improving my coding skills through real-world projects and competitive programming.<br><br>🤝 I'm looking to collaborate on open-source projects, hackathons, and team-based software development.<br><br>💡 I'm looking for help with mastering advanced algorithms, optimizing performance, and learning best industry practices.<br><br>🌱 I'm currently learning new programming paradigms, cloud computing, and AI-driven development.<br><br>💬 Ask me about software engineering, debugging techniques, and the best coding resources.<br><br>⚡ Fun fact: Writing code at FIT is like solving a puzzle – every bug is just a missing piece waiting to be found!
 
 
 # 💻 Tech Stack:
