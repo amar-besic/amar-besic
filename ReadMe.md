@@ -134,8 +134,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
       </a>
     </div>
     <div>
-      <div style="font-weight: bold;">Gmail</div>
-      <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
+      <div style="font-weight: bold;">Gmail: </div> <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
         amar.besic.2002@gmail.com
       </a>
    
