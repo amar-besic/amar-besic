@@ -4,11 +4,11 @@ I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary S
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://www.fit.ba/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 15%; border: 5px solid #4CAF50; box-shadow: 0px 4px 20px rgba(0,0,0,0.3); width: 120px; height: 120px; padding: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 20px rgba(0,0,0,0.3); width: 120px; height: 120px; padding: 5px;">
   </a>
   
   <a href="https://www.ms-skola.ba/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 15%; border: 5px solid #F44336; box-shadow: 0px 4px 20px rgba(0,0,0,0.3); width: 120px; height: 120px; padding: 5px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 20px rgba(0,0,0,0.3); width: 120px; height: 120px; padding: 5px;">
   </a>
 </div>
 
@@ -24,5 +24,3 @@ I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary S
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amar-besic&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
