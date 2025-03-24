@@ -1,113 +1,54 @@
-Skip to content
-Navigation Menu
-amar-besic
-amar-besic
+# 💻 Tech Stack:
+<div style="display: flex; flex-direction: column; gap: 10px;">
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-amar-besic/amar-besic is a special repository: its README.md will appear on your profile!
-amar-besic
-/
-ReadMe.md
-in
-main
+  <!-- PROGRAMMING LANGUAGES -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ Programming Languages</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  </div>
 
-Edit
+  <!-- WEB DEVELOPMENT -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🌐 Web Development</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  </div>
 
-Preview
-Indent mode
+  <!-- DATABASES & VERSION CONTROL -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📊 Databases & Version Control</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </div>
 
-Spaces
-Indent size
+  <!-- CAD & ENGINEERING SOFTWARE -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">⚙️ CAD & Engineering Software</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Inventor-%23F27D0C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ANSYS-%23FFB400.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CATIA-%23008FC7.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA"></a>
+  </div>
 
-2
-Line wrap mode
+  <!-- PRODUCTIVITY & OFFICE TOOLS -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📑 Productivity & Office Tools</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
+  </div>
 
-Soft wrap
-Editing ReadMe.md file contents
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
+  <!-- CLOUD SERVICES -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Services</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-%23007AEE.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Dropbox-%230E76A8.svg?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Box-%23007AE1.svg?style=for-the-badge&logo=box&logoColor=white" alt="Box"></a>
@@ -135,12 +76,6 @@ Editing ReadMe.md file contents
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="#" onclick="return false
-
-
-</div>
-
-
-
 
 
 
@@ -183,7 +118,5 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing amar-besic/ReadMe.md at main · amar-besic/amar-besic
+   
+  </a>
