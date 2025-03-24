@@ -43,12 +43,13 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
   </div>
 
-  <!-- CLOUD STORAGE -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
+  <!-- OFFICE & PRODUCTIVITY -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Mega-%23D9272E.svg?style=for-the-badge&logo=mega&logoColor=white" alt="Mega"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook"></a>
   </div>
 
   <!-- OTHER SOFTWARE & SYSTEMS -->
@@ -62,7 +63,6 @@
   </div>
 
 </div>
-
 
 
 
