@@ -103,36 +103,23 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   </a>
 </div>
 
-  <!-- CONTACT -->
- <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📞 Contact</div>
+<!-- CONTACT -->
+<div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📞 Contact</div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div>
-    <div style="font-weight: bold;">Phone (Viber)</div>
-    <a href="viber://chat?number=%2B387603007090" style="text-decoration: none; color: #0078D4;">
-      +387 60 300 70 90
-    </a>
-  </div>
-  <div>
-    <div style="font-weight: bold;">Instagram</div>
-    <a href="https://www.instagram.com/amar_besic_/" target="_blank" style="text-decoration: none; color: #E4405F;">
-      Instagram Profile
-    </a>
-  </div>
-  <div>
-    <div style="font-weight: bold;">Facebook</div>
-    <a href="https://bs-ba.facebook.com/amar.besic.12" target="_blank" style="text-decoration: none; color: #1877F2;">
-      Facebook Profile
-    </a>
-  </div>
-  <div>
-    <div style="font-weight: bold;">Gmail</div>
-    <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
-      amar.besic.2002@gmail.com
-    </a>
-  </div>
+  <a href="viber://chat?number=%2B387603007090" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Viber-%2304B34D.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber">
+  </a>
+  <a href="https://www.instagram.com/amar_besic_/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://bs-ba.facebook.com/amar.besic.12" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
-</div>
 
 ---
 
