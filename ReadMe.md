@@ -7,7 +7,6 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
   </div>
 
   <!-- WEB DEVELOPMENT -->
@@ -17,30 +16,24 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   </div>
 
-  <!-- DATABASES & VERSION CONTROL -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🗄️ Databases & Version Control</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  </div>
-
-  <!-- CAD & ENGINEERING SOFTWARE -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📐 CAD & Engineering Software</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SolidWorks-%23FF0000.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AutoCAD-%23E61C24.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Inventor-%23F27D0C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Inventor"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ANSYS-%23FFB400.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/CATIA-%23008FC7.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA"></a>
-  </div>
-
   <!-- OPERATING SYSTEMS -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🖥️ Operating Systems</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
+  </div>
+
+  <!-- OFFICE SUITE -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📂 Microsoft Office Suite</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Outlook-%23007BB6.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneNote-%23512BD4.svg?style=for-the-badge&logo=microsoftonenote&logoColor=white" alt="OneNote"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Access-%23A4373A.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Publisher-%23006766.svg?style=for-the-badge&logo=microsoftpublisher&logoColor=white" alt="Publisher"></a>
   </div>
 
   <!-- CLOUD STORAGE -->
