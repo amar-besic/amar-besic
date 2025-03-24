@@ -66,8 +66,12 @@
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-%231287A3.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Access-%234F76A1.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access"></a>
+  </div>
 
+</div>
 
 
 
