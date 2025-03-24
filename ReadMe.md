@@ -109,13 +109,6 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 <!-- CONTACT -->
 <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📞 Contact</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div>
-    <div style="font-weight: bold;">Phone (Call)</div>
-    <!-- Call link -->
-    <a href="tel:+387603007090" style="text-decoration: none; color: #0078D4;">
-      +387 60 300 70 90
-    </a>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <!-- Call icon -->
       <a href="tel:+387603007090" style="text-decoration: none;">
