@@ -43,13 +43,12 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
   </div>
 
-  <!-- OFFICE & PRODUCTIVITY -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
+  <!-- CLOUD STORAGE -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Mega-%23D9272E.svg?style=for-the-badge&logo=mega&logoColor=white" alt="Mega"></a>
   </div>
 
   <!-- OTHER SOFTWARE & SYSTEMS -->
@@ -60,6 +59,19 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VMware-%23607080.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
+  </div>
+
+  <!-- OFFICE & PRODUCTIVITY -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/LibreOffice-%2318A303.svg?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Docs-%230084F2.svg?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Sheets-%2300A65A.svg?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Slides-%FFF44F.svg?style=for-the-badge&logo=googleslides&logoColor=black" alt="Google Slides"></a>
   </div>
 
 </div>
