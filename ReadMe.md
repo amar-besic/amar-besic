@@ -45,6 +45,26 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
   </div>
 
+  <!-- CLOUD SERVICES -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Cloud Services</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-%23007AEE.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Dropbox-%230E76A8.svg?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/iCloud-%231E4B77.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Box-%23007AE1.svg?style=for-the-badge&logo=box&logoColor=white" alt="Box"></a>
+  </div>
+
+  <!-- DEVELOPMENT TOOLS -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Development Tools</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Unity-%23231F20.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"></a>
+  </div>
+
   <!-- OTHER SOFTWARE & SYSTEMS -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Other Software & Systems</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -53,6 +73,7 @@
   </div>
 
 </div>
+
 
 
 
