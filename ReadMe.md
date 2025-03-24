@@ -55,19 +55,20 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Box-%23007AE1.svg?style=for-the-badge&logo=box&logoColor=white" alt="Box"></a>
   </div>
 
+  <!-- DEVELOPMENT TOOLS -->
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Development Tools</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Unity-%23231F20.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"></a>
+  </div>
+
   <!-- OTHER SOFTWARE & SYSTEMS -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🔹 Other Software & Systems</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  </div>
-
-</div>
-
-
-
-
-
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Windows-0078D6
 
 
 ---
