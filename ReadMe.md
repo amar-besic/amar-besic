@@ -112,7 +112,6 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div>
     <div style="font-weight: bold;">Phone (Viber)</div>
-    <!-- This link opens the phone app with the number already filled in -->
     <a href="tel:+387603007090" style="text-decoration: none; color: #0078D4;">
       +387 60 300 70 90
     </a>
@@ -120,7 +119,6 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
       <a href="viber://send?text=Hello,%20I'm%20interested%20in%20contacting%20you!" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Viber-%238B6FBF.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber">
       </a>
-      <!-- WhatsApp link -->
       <a href="https://wa.me/387603007090?text=Hello,%20I'm%20interested%20in%20contacting%20you!" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WhatsApp-%2371B900.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
       </a>
@@ -142,7 +140,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   </div>
 
   <div>
-    <div style="font-weight: bold;">Gmail</div>
+    <div style="font-weight: bold;">Gmail :</div>
     <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
       amar.besic.2002@gmail.com
     </a>
@@ -153,6 +151,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
     </div>
   </div>
 </div>
+
 
 
 
