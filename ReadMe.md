@@ -42,25 +42,30 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
   <!-- OFFICE & PRODUCTIVITY -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Microsoft_Word_2013_logo_%28Office_365%29.png" alt="Word" width="60" height="60">
     </a>
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Microsoft_Excel_Logo_%282019%29.svg" alt="Excel" width="60" height="60">
     </a>
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_PowerPoint_2019_logo.svg" alt="PowerPoint" width="60" height="60">
     </a>
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/Outlook-%231287A3.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Microsoft_Outlook_logo_2013.png" alt="Outlook" width="60" height="60">
     </a>
     <a href="#" onclick="return false;">
-      <img src="https://img.shields.io/badge/Access-%23FF0000.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Access_2013_logo.png" alt="Access" width="60" height="60">
     </a>
   </div>
+
+</div>
+
 
   <!-- CLOUD STORAGE -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
