@@ -71,7 +71,12 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
+  
+   ![](https://github-readme-stats.vercel.app/api?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   
+  </a>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=amar-besic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
