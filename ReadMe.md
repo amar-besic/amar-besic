@@ -76,7 +76,6 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VMware-%23607080.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Photoshop-%23E94E77.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"></a>
   </div>
