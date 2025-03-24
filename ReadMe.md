@@ -42,9 +42,10 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
+
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
- <!-- OFFICE & PRODUCTIVITY -->
+  <!-- OFFICE & PRODUCTIVITY -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office & Productivity</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a href="#" onclick="return false;">Word</a>
@@ -55,6 +56,7 @@
   </div>
 
 </div>
+
 
 
   <!-- CLOUD STORAGE -->
