@@ -61,6 +61,7 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Mega-%23D9272E.svg?style=for-the-badge&logo=mega&logoColor=white" alt="Mega"></a>
+    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
   </div>
 
   <!-- OTHER SOFTWARE & SYSTEMS -->
