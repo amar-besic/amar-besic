@@ -77,12 +77,13 @@
     </a>
   </div>
 
-  <!-- AI (Modified) -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI & Machine Learning</div>
-  <div style="display: flex; gap: 10px;">
-    ChatGPT, DeepSeek, GitHub Copilot, Google Gemini
-  </div>
-
+  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI Tools</div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSeek-0052CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini"></a>
+</div>
 </div>
 
 
