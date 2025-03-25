@@ -9,6 +9,7 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
   </div>
+  
 
   <!-- WEB DEVELOPMENT -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🌐 Web Development</div>
