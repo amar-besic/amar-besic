@@ -42,30 +42,16 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
- <!-- OFFICE TOOLS -->
+<!-- OFFICE TOOLS -->
 <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office Tools</div>
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <a href="#" onclick="return false;" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word">
-    Word
-  </a>
-  <a href="#" onclick="return false;" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint">
-    PowerPoint
-  </a>
-  <a href="#" onclick="return false;" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-    Excel
-  </a>
-  <a href="#" onclick="return false;" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access">
-    Access
-  </a>
-  <a href="#" onclick="return false;" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
-    Outlook
-  </a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook"></a>
 </div>
+
 
 
 
