@@ -42,15 +42,15 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
-<!-- OFFICE TOOLS -->
 <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office Tools</div>
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"></a>
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"></a>
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access"></a>
-  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 </div>
+
 
 
 
