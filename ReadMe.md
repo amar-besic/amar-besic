@@ -42,15 +42,18 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Android-%230A5A32.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
   </div>
 
-  <!-- OFFICE TOOLS -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office Tools</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
-  </div>
+<div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📄 Office Tools</div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Access-5C2D91?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+</div>
+
+
+
+
 
   <!-- CLOUD STORAGE -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Storage</div>
@@ -58,14 +61,6 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white" alt="OneDrive"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Mega-%23D9272E.svg?style=for-the-badge&logo=mega&logoColor=white" alt="Mega"></a>
-  </div>
-
-  <!-- CLOUD SERVICES -->
-  <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">☁️ Cloud Services</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
   </div>
 
   <!-- OTHER SOFTWARE & SYSTEMS -->
@@ -76,18 +71,27 @@
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"></a>
     <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Photoshop-%23E94E77.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
+    <!-- CANVA ICON -->
+    <a href="#" onclick="return false;">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+    </a>
   </div>
 
-  <!-- AI TOOLS -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">🤖 AI Tools</div>
-  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSeek-0052CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"></a>
-    <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini"></a>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/DeepSeek-0052CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini"></a>
 </div>
+</div>
+
+
+
+
+
+
+
 
 ---
 
@@ -103,6 +107,11 @@
     Age: <strong style="font-size: 28px;">23 years old</strong> (as of 2025)
   </div>
 </div>
+</n>
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+
 
 I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)** (Faculty of Information Technologies).  
 I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](https://www.ms-skola.ba/)** in **Mostar**.  
@@ -112,54 +121,72 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
 <a href="https://www.fit.ba/" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 2px solid #2196F3;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease; border-radius: 10px;">
 </a>
 
-<a href="https://www.ms-skola.ba/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 2px solid #2196F3;">
-</a>
-<a href="https://www.suljocilic.com.ba/" target="_blank">
-  <img src="https://www.hercegovina.info/img/repository/2024/10/image_640x396/osnovna-skola-suljo-cilic-jablanica.jpg" alt="OŠ Suljo Čilić Jablanica Symbolic Image" style="border-radius: 50%; border: 2px solid #2196F3;">
-</a>
+  <a href="https://www.ms-skola.ba/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s" alt="Srednja Mašinska Saobraćajna Škola Mostar Logo" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
+  </a>
+  <a href="https://www.suljocilic.com.ba/" target="_blank">
+    <img src="https://www.hercegovina.info/img/repository/2024/10/image_640x396/osnovna-skola-suljo-cilic-jablanica.jpg" alt="OŠ Suljo Čilić Jablanica Symbolic Image" style="border-radius: 50%; border: 5px solid #2196F3; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
+  </a>
+</div>
+
+
+  
 </div>
 
 <!-- CONTACT -->
 <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">📞 Contact</div>
 
-<div>
-  <div style="font-weight: bold;">Instagram</div>
-  <a href="https://www.instagram.com/amar_besic_/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
 
-<div>
-  <div style="font-weight: bold;">Facebook</div>
-  <a href="https://bs-ba.facebook.com/amar.besic.12" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</div>
-
-<div>
-  <div style="font-weight: bold;">Gmail: <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
-    amar.besic.2002@gmail.com
-  </a></div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <div>
+    <div style="font-weight: bold;">Instagram</div>
+    <a href="https://www.instagram.com/amar_besic_/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
+
+  <div>
+    <div style="font-weight: bold;">Facebook</div>
+    <a href="https://bs-ba.facebook.com/amar.besic.12" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+  </div>
+
+  <div>
+    <div style="font-weight: bold;">Gmail: <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none; color: #DB4437;">
+      amar.besic.2002@gmail.com
+    </a></div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="mailto:amar.besic.2002@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-%23DB4437.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    </div>
+  </div>
 </div>
+
+
+
+
+
+
 
 ---
 
 # 📊 GitHub Stats:
 <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
-  ![](https://github-readme-stats.vercel.app/api?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</a>
-<a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
-  ![](https://nirzak-streak-stats.vercel.app/?user=amar-besic&theme=dark&hide_border=false)<br/>
-</a>
-<a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</a>
+  
+   ![](https://github-readme-stats.vercel.app/api?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   
+  </a>
+  <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
+
+![](https://nirzak-streak-stats.vercel.app/?user=amar-besic&theme=dark&hide_border=false)<br/>
+   
+  </a>
+  <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   
+  </a>
