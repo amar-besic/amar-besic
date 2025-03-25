@@ -120,7 +120,7 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
 <a href="https://www.fit.ba/" onclick="window.open(this.href, '_blank'); return false;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMBbQQ90pZL6B-Vy-UlVnHB78ZqK1UFLL2F835CQlAFNhX0ufP0VyjWiVQUuvwlGcq8s&usqp=CAU" alt="FIT Logo" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); width: 100px; height: 100px; padding: 20px; transition: transform 0.3s ease; border-radius: 10px;">
 </a>
 
   <a href="https://www.ms-skola.ba/" target="_blank">
