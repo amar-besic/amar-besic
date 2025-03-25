@@ -2,6 +2,7 @@
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
 
+
   <!-- PROGRAMMING LANGUAGES -->
   <div style="font-weight: bold; font-size: 16px; margin-bottom: 5px;">💻 Programming Languages</div>
   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
