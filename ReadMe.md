@@ -119,7 +119,7 @@ I am currently studying **Software Engineering** at **[FIT](https://www.fit.ba/)
 I completed the **Computer-Aided Design** (CAD) specialization at **[Secondary School of Mechanical Engineering and Traffic](https://www.ms-skola.ba/)** in **Mostar**.  
 During my time there, I worked with tools like **AutoCAD**, **SolidWorks**, **Inventor**, and other essential engineering and design software.  
 Additionally, I had solid exposure to **programming** during high school, learning languages such as **C++**, **Python**, and more.  
-I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com.ba/)**, where I gained a strong foundation in academics and values.
+I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com.ba/)**.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
 <a href="https://www.fit.ba/" onclick="window.open(this.href, '_blank'); return false;">
