@@ -196,8 +196,5 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
    
   </a>
-
-
-<a href="https://www.ms-skola.ba/" target="_blank">
     <img src="https://img001.prntscr.com/file/img001/uT6mX7azQA2Jp1XV2-ysvw.png" alt="Gtihub boja" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-  </a>
+
