@@ -184,6 +184,10 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   </a>
   <a href="https://github.com/amar-besic" target="_blank" style="display: inline-block;">
 
+
+
+  
+
 ![](https://nirzak-streak-stats.vercel.app/?user=amar-besic&theme=dark&hide_border=false)<br/>
    
   </a>
@@ -191,4 +195,9 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-besic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
    
+  </a>
+
+
+<a href="https://www.ms-skola.ba/" target="_blank">
+    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s](https://prnt.sc/PljG1weu0Gol)" alt="Gtihub boja" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
   </a>
