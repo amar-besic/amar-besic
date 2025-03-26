@@ -199,5 +199,5 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 
 <a href="https://www.ms-skola.ba/" target="_blank">
-    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf549ytS42nRgw8PmhWJiplMafBA05lW4dLA&s](https://prnt.sc/PljG1weu0Gol)" alt="Gtihub boja" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+    <img src="https://img001.prntscr.com/file/img001/uT6mX7azQA2Jp1XV2-ysvw.png" alt="Gtihub boja" style="border-radius: 50%; border: 5px solid #F44336; box-shadow: 0px 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
   </a>
