@@ -148,14 +148,12 @@ I also graduated from **[OŠ Suljo Čilić Jablanica](https://www.suljocilic.com
 
 
   <div>
-    <div style="font-weight: bold;">Instagram</div>
     <a href="https://www.instagram.com/amar_besic_/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
 
   <div>
-    <div style="font-weight: bold;">Facebook</div>
     <a href="https://bs-ba.facebook.com/amar.besic.12" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
